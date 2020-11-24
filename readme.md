@@ -1,0 +1,2 @@
+# My Portfolio
+This project is a personal portfolio made with HTML, CSS and JavaScript. It also is an assignment for Codecademy's full-stack developer course. Some functionalities are missing, as they weren't required in the course, but they might be completed afterwards.
