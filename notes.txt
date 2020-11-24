@@ -1,6 +1,0 @@
-Palette:
-Dark Purple: 38153D
-Dark Magenta: 841B94
-French Lilac: 8F6096
-French Mauve: CE66DE
-Pale Purple Pantone: FCE6FF
