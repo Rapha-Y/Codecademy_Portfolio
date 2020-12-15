@@ -131,6 +131,14 @@ footer {
 }
 
 @media only screen and (max-width: 400px) {
+    /* Header styles */
+    
+    nav {
+        margin: 0 10px;
+    }
+
+    /* Main styles */
+
     .grid {
         grid-template-columns: 300px;
     }

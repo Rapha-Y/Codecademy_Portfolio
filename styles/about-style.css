@@ -105,6 +105,14 @@ footer {
     background-color: #38153D;
 }
 
+@media only screen and (max-width: 400px) {
+    /* Header styles */
+        
+    nav {
+        margin: 0 10px;
+    }
+}
+
 /* Desktop styles */
 
 @media only screen and (min-width: 560px) {
