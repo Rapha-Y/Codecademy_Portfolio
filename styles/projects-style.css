@@ -52,7 +52,7 @@ main {
     flex-direction: column;
     align-items: center;
     margin: 80px 0;
-    width: 80%;    
+    width: 80%;
 }
 
 .intro {
@@ -128,6 +128,16 @@ footer {
     font-size: 0.875em;
     color: #FCE6FF;
     background-color: #38153D;
+}
+
+@media only screen and (max-width: 400px) {
+    .grid {
+        grid-template-columns: 300px;
+    }
+
+    .overlay {
+        width: 300px;
+    }
 }
 
 /* Desktop styles */
